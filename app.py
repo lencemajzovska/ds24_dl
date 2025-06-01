@@ -129,7 +129,7 @@ with st.sidebar:
             <br><br>
             Data är hämtad från Försäkringskassans hemsida och omfattar några vanliga ersättningar.
             Lösningen är flexibel och kan enkelt utökas till fler områden eller anpassas med fler funktioner.
-        </div><br>
+        </div>
         <hr style="margin: 1.3em 0 1em 0; border: none; border-top: 1.5px solid #b8ded0;" />
         <div class="sidebar-section">
             <h3 style="color:#127247; font-weight:bold; font-size: 1.2rem; margin-top: 1.4em;">Syfte</h3>
